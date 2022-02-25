@@ -1,0 +1,15 @@
+C:\Users\alumno\Documents\Progra1\Condiciones\bin\Debug\net6.0\Condiciones.exe
+C:\Users\alumno\Documents\Progra1\Condiciones\bin\Debug\net6.0\Condiciones.deps.json
+C:\Users\alumno\Documents\Progra1\Condiciones\bin\Debug\net6.0\Condiciones.runtimeconfig.json
+C:\Users\alumno\Documents\Progra1\Condiciones\bin\Debug\net6.0\Condiciones.dll
+C:\Users\alumno\Documents\Progra1\Condiciones\bin\Debug\net6.0\ref\Condiciones.dll
+C:\Users\alumno\Documents\Progra1\Condiciones\bin\Debug\net6.0\Condiciones.pdb
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.AssemblyInfo.cs
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.dll
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\ref\Condiciones.dll
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.pdb
+C:\Users\alumno\Documents\Progra1\Condiciones\obj\Debug\net6.0\Condiciones.genruntimeconfig.cache

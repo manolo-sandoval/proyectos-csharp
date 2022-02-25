@@ -1,0 +1,15 @@
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\bin\Debug\net6.0\Tipos-de-datos.exe
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\bin\Debug\net6.0\Tipos-de-datos.deps.json
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\bin\Debug\net6.0\Tipos-de-datos.runtimeconfig.json
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\bin\Debug\net6.0\Tipos-de-datos.dll
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\bin\Debug\net6.0\ref\Tipos-de-datos.dll
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\bin\Debug\net6.0\Tipos-de-datos.pdb
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.AssemblyInfo.cs
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.dll
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\ref\Tipos-de-datos.dll
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.pdb
+C:\Users\alumno\Documents\Progra1\Tipos-de-datos\obj\Debug\net6.0\Tipos-de-datos.genruntimeconfig.cache

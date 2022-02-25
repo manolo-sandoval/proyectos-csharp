@@ -1,0 +1,15 @@
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\bin\Debug\net6.0\Mi-primer-progrma.exe
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\bin\Debug\net6.0\Mi-primer-progrma.deps.json
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\bin\Debug\net6.0\Mi-primer-progrma.runtimeconfig.json
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\bin\Debug\net6.0\Mi-primer-progrma.dll
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\bin\Debug\net6.0\ref\Mi-primer-progrma.dll
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\bin\Debug\net6.0\Mi-primer-progrma.pdb
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.AssemblyInfo.cs
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.dll
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\ref\Mi-primer-progrma.dll
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.pdb
+C:\Users\alumno\Documents\Progra1\Mi-primer-progrma\obj\Debug\net6.0\Mi-primer-progrma.genruntimeconfig.cache

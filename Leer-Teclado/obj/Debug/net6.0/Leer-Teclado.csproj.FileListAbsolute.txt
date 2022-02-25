@@ -1,0 +1,15 @@
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\bin\Debug\net6.0\Leer-Teclado.exe
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\bin\Debug\net6.0\Leer-Teclado.deps.json
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\bin\Debug\net6.0\Leer-Teclado.runtimeconfig.json
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\bin\Debug\net6.0\Leer-Teclado.dll
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\bin\Debug\net6.0\ref\Leer-Teclado.dll
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\bin\Debug\net6.0\Leer-Teclado.pdb
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.csproj.AssemblyReference.cache
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.AssemblyInfo.cs
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.dll
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\ref\Leer-Teclado.dll
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.pdb
+C:\Users\alumno\Documents\Progra1\Leer-Teclado\obj\Debug\net6.0\Leer-Teclado.genruntimeconfig.cache
